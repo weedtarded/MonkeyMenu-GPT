@@ -16,7 +16,7 @@ https://github.com/weedtarded/MonkeyMenu/assets/132843901/3687a333-f979-418b-885
 - ⚙️ Automatic Generation Toggle: Take charge of the chat's rhythm by enabling or disabling the automatic generation feature whenever you want.
 - 🚀 Seamless Interaction: Enjoy a streamlined user interface that integrates flawlessly into the existing ChatGPT design.
 - 💡 Intuitive Interface: The MonkeyMenu GPT script provides a user-friendly interface that's simple to navigate, ensuring a hassle-free experience.
-- 🌈 Customizable Appearance: Tailor the appearance of the side menu to your liking with adjustable colors, fonts, and layout options from within the script.
+- 🌈 Customizable Appearance: Tailor the appearance of the side menu to your liking with adjustable colors, fonts, and layout options from in the script.
 - 🆕 Automatic Generation Message: Receive a visual notification whenever the "Continue Generate" button is automatically actuated , keeping you informed of the ongoing generation.
 
 **also demo**
