@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Toggle Side Menu & Auto Continue Generating
+// @name         MonkeyMenu-GPT
 // @description  Auto click the "Continue generating" button and toggle side menu.
 // @namespace    https://github.com/weedtarded
 // @version      1.0
@@ -278,4 +278,3 @@
     GM_addStyle(`.${targetClass} { display: block !important; }`);
     // Apply custom styles using GM_addStyle to force display elements with the targetClass by setting their display property to "block" (important to override any existing styles).
 })();
-
