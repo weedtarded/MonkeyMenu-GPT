@@ -3,7 +3,8 @@
 The TemperMonkey script is a handy script designed specifically for enhancing your ChatGPT experience. With this script installed, you'll have the power to effortlessly show or hide the side menu in ChatGPT. Plus, it grants you the ability to toggle automatic generation on and off, giving you full control over the chat flow. 🙌
 
 **Very good demo showcase**
-https://github.com/weedtarded/MonkeyMenu/assets/132843901/06d59616-3d4b-4c6e-8c30-584b548bc270
+[](https://github.com/weedtarded/MonkeyMenu/assets/132843901/06d59616-3d4b-4c6e-8c30-584b548bc270
+)
 
 
 
@@ -17,8 +18,8 @@ https://github.com/weedtarded/MonkeyMenu/assets/132843901/06d59616-3d4b-4c6e-8c3
 - 🆕 Automatic Generation Message: Receive a visual notification whenever the "Continue Generate" button is automatically actuated , keeping you informed of the ongoing generation.
 
 **also demo**
-https://github.com/weedtarded/MonkeyMenu/assets/132843901/9ee65140-4792-41d3-8b4b-f3efab64ccfa
-
+[](https://github.com/weedtarded/MonkeyMenu/assets/132843901/9ee65140-4792-41d3-8b4b-f3efab64ccfa
+)
 **How to Use:**
 
 - Install the TamperMonkey browser extension if you haven't already.
