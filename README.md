@@ -36,6 +36,13 @@ https://github.com/weedtarded/MonkeyMenu/assets/132843901/3687a333-f979-418b-885
 **Check the MonkeyMenuExplained.user.js for explenation on the script**
 
 
+🔜 **More features will be added shortly.**
+
+features such as:
+- save the full conversation
+- automatically copy ChatGPT's response to your clipboard
+- a indicator with which you can check if ChatGPT is still thinking or already done with typing
+- click a button that expands a scrollable list of prompts(that you can customize) for ChatGPT, allowing you to select a prompt and it automatically inserts the specific prompt into the ChatGPT text box and sends it.
 
 
 
