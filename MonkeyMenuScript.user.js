@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Toggle Side Menu & Auto Continue Generating
+// @name         MonkeyMenu-GPT
 // @description  Auto click the "Continue generating" button and toggle side menu.
 // @namespace    https://github.com/weedtarded
 // @version      1.0
